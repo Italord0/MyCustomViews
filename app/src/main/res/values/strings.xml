@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">MyCustomViews</string>
+    <string name="click_me">Click me!</string>
+    <string name="loading">Loading …</string>
 </resources>
